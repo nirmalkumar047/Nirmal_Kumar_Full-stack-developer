@@ -6,7 +6,7 @@ import { useMediaQuery } from 'react-responsive';
 import { Room } from './Room';
 import { Group } from 'three/examples/jsm/libs/tween.module.js';
 import HeroLights from './HeroLights';
-import Particles from './particles';
+import Particles from './Particles';
 
 
 const HeroExperiences = () => {
