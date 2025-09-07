@@ -40,9 +40,9 @@ const navLinks = [
   ];
   
   const counterItems = [
-    { value: 15, suffix: "+", label: "Years of Experience" },
-    { value: 200, suffix: "+", label: "Satisfied Clients" },
-    { value: 108, suffix: "+", label: "Completed Projects" },
+    { value: 2, suffix: "+", label: "Years of Experience" },
+    { value: 10, suffix: "+", label: "Satisfied Clients" },
+    { value: 22, suffix: "+", label: "Completed Projects" },
     { value: 90, suffix: "%", label: "Client Retention Rate" },
   ];
   
@@ -158,41 +158,30 @@ const navLinks = [
   
   const expCards = [
     {
-      review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      review: "Nirmal brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
       imgPath: "/images/exp1.png",
       logoPath: "/images/logo1.png",
       title: "Frontend Developer",
-      date: "January 2023 - Present",
+      date: "January 2024 - Present",
       responsibilities: [
-        "Developed and maintained user-facing features for the Hostinger website.",
+        "Developed and maintained user-facing features for the many websites.",
         "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
         "Optimized web applications for maximum speed and scalability.",
       ],
     },
     {
-      review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+      review: "Nirmal's contributions to RVEIYA dynamics's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
       imgPath: "/images/exp2.png",
       logoPath: "/images/logo2.png",
       title: "Full Stack Developer",
-      date: "June 2020 - December 2023",
+      date: "April 2025 - September 2025",
       responsibilities: [
-        "Led the development of Docker's web applications, focusing on scalability.",
+        "Led the development of RVEIYA dynamics's web applications, focusing on scalability.",
         "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-        "Contributed to open-source projects that were used with the Docker ecosystem.",
+        "Implemented responsive design principles to ensure compatibility across devices.",
       ],
     },
-    {
-      review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-      imgPath: "/images/exp3.png",
-      logoPath: "/images/logo3.png",
-      title: "React Native Developer",
-      date: "March 2019 - May 2020",
-      responsibilities: [
-        "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-        "Improved app performance and user experience through code optimization and testing.",
-        "Coordinated with the product team to implement features based on feedback.",
-      ],
-    },
+   
   ];
   
   const expLogos = [
@@ -259,6 +248,7 @@ const navLinks = [
     {
       name: "insta",
       imgPath: "/images/insta.png",
+      link: "https://www.instagram.com/nirmal_kumar__002/",
     },
     {
       name: "fb",
@@ -271,6 +261,8 @@ const navLinks = [
     {
       name: "linkedin",
       imgPath: "/images/linkedin.png",
+            link: "https://www.linkedin.com/in/nirmalkumara02/",
+
     },
   ];
   
