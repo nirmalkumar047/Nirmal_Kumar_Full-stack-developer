@@ -1,6 +1,6 @@
 import React from 'react'
 import { word } from '../constants/index.js'
-import Button from '../components/button.jsx'
+import Button from '../components/Button.jsx'
 import HeroExperiences from '../components/HeroModels/HeroExperiences.jsx'
 
 import { useGSAP } from "@gsap/react";
