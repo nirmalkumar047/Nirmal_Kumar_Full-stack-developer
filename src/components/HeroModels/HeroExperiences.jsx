@@ -1,6 +1,7 @@
 import React from 'react'
-import { Canvas } from '@react-three/fiber'
-import { OrbitControls } from '@react-three/drei'
+import { Canvas } from "@react-three/fiber";
+import { OrbitControls, MeshDistortMaterial } from "@react-three/drei";
+
 import { useMediaQuery } from 'react-responsive';
 import { Room } from './Room';
 import { Group } from 'three/examples/jsm/libs/tween.module.js';
