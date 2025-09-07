@@ -3,7 +3,8 @@ import { word } from '../constants/index.js'
 import Button from '../components/button.jsx'
 import HeroExperiences from '../components/HeroModels/HeroExperiences.jsx'
 
-import { useGSAP } from "@gsap/react";
+import { useGSAP } from "gsap/react";
+
 import gsap from "gsap";
 import AnimatedCounter from '../components/AnimatedCounter.jsx';
 
